@@ -1,7 +1,7 @@
 # Getting-started-with-Git-and-GitHub
-Here's a full guide for Git and GitHub, from beginner to advanced, focusing on open-source contributions and covering all essential commands.
+Here's a full guide for Git and GitHub, from beginner to advanced, focusing on open-source contributions and all essential commands.
 
-Git is a version control system that lets you track changes to files and collaborate on projects. GitHub is a platform for hosting Git repositories, often used for open-source projects.
+Git is a version control system that lets you track file changes and collaborate on projects. GitHub is a platform for hosting Git repositories, often used for open-source projects.
 
 #### **Install Git**
 To install Git:
@@ -12,8 +12,8 @@ To install Git:
 #### **Initial Setup**
 Once installed, configure your identity with Git:
 ```bash
-git config --global user.name "Your Name"
-git config --global user.email "your-email@example.com"
+git config --global user. name "Your Name"
+git config --global user. email "your-email@example.com"
 ```
 
 To verify your setup:
